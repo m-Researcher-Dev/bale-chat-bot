@@ -9,3 +9,5 @@ gapgpt_db_OLD.py
 
 # Virtual environments
 .venv
+
+.gitignore
